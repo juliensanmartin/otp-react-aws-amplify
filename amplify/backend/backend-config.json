@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"amplifyreactotp": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
